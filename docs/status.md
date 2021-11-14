@@ -6,6 +6,8 @@ title: Status
 Project Summary: Since things may have changed since proposal (even if they haven’t), write a short
 paragraph summarizing the goals of the project (updated/improved version from the proposal).
 
+We will be training an algorithm that, given an input sound file, will output a configuration of noteblocks in Minecraft that would best recreate the given sound. The sound files are expected to be shorter < 1 second in length. Therefore, this project will favor mimicing short sound bites. This program could be used to transcribe recordings of music through Minecraft audio, and if extended, could even do so for existing instruments.
+
 Approach: Give a detailed description of your approach, in a few paragraphs. You should summarize the
 main algorithm you are using, such as by writing out the update equation (even if it is off-the-shelf). You
 should also give details about the approach as it applies to your scenario. For example, if you are using
