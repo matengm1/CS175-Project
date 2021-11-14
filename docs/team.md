@@ -6,11 +6,11 @@ title:  Team
 # {{ page.title }}
 
 
-## USER 1
+## Matthew Eng
 ***UCI Net ID***: engm1
 
-## USER 2
+## Alina Kim
 ***UCI Net ID***: sanggk
 
-## USER 3
+## Kabeer Bahl
 ***UCI Net ID***: kabeerbahl
