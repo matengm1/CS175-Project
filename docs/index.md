@@ -7,7 +7,7 @@ title:  Home
 
 Have you ever wanted to know what a cello would sound like if it was entirely recreated out of Minecraft sound bites? No? Well now you can!
 
-This AI allows you to input short sound clips and it will tirelessly work to recreate that sound using clips derived from Minecraft. Noteblocks, skeleton clinks, sheep baa's–you name it, this AI will use it to recreate what ever you feed it. So check it out today!
+This AI allows you to input short sound clips and it will tirelessly work to recreate that sound using clips derived from Minecraft. Noteblocks, skeleton clinks, sheep baa's–you name it, this AI will use it to recreate whatever you feed it. So check it out today!
 
 Source code: https://github.com/matengm1/Minecraft-Mimic/
 
