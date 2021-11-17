@@ -4,7 +4,9 @@ title: Status
 ---
 
 ### Video:
-https://i9.ytimg.com/vi/2JXjUvanLcc/mq1.jpg?sqp=CMjV0owG&rs=AOn4CLD4pbv_pXOK0SMdjLW59gKtkUppgg![image](https://user-images.githubusercontent.com/8118708/142151126-04e71838-19a9-4302-8b52-07c0c0ba2149.png)
+![image](https://user-images.githubusercontent.com/8118708/142151126-04e71838-19a9-4302-8b52-07c0c0ba2149.png)
+
+[![Progress Video](https://user-images.githubusercontent.com/8118708/142151126-04e71838-19a9-4302-8b52-07c0c0ba2149.png)](https://youtu.be/2JXjUvanLcc)
 
 https://youtu.be/2JXjUvanLcc
 
