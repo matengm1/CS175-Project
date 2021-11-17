@@ -3,6 +3,9 @@ layout: default
 title: Status
 ---
 
+### Video:
+https://youtu.be/2JXjUvanLcc
+
 ## Project Summary:
 
 We will be training an algorithm that, given an input sound file, will output a configuration of note blocks in Minecraft that would best recreate the given sound. The sound files are expected to be short (< 1 second in length). Therefore, this current iteration of the project favors mimicking short sound bites, rather than complex audio. However, this program could be later extended to transcribe recordings of music through Minecraft audio, and if extended, could even do so for existing instruments.
