@@ -4,11 +4,8 @@ title: Status
 ---
 
 ### Video:
-![image](https://user-images.githubusercontent.com/8118708/142151126-04e71838-19a9-4302-8b52-07c0c0ba2149.png)
 
 [![Progress Video](https://user-images.githubusercontent.com/8118708/142151126-04e71838-19a9-4302-8b52-07c0c0ba2149.png)](https://youtu.be/2JXjUvanLcc)
-
-https://youtu.be/2JXjUvanLcc
 
 ## Project Summary:
 
