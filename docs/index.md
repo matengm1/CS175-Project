@@ -3,6 +3,8 @@ layout: default
 title:  Home
 ---
 
+![image](https://user-images.githubusercontent.com/8118708/142154316-c21f31db-58bb-4e46-ad7e-bc649a5a5311.png)
+
 Source code: https://github.com/matengm1/Minecraft-Mimic/
 
 Reports:
@@ -11,30 +13,10 @@ Reports:
 - [Status](status.html)
 - [Final](final.html)
 
-What's Markdown (`.md`)?
+## Before and After
 
-Markdown is markup that lets you write hypertext (HTML) documents
-in easy-to-read and easy-to-write plain text.
-No angle brackets `<></>` required for
-paragraphs, lists, blockquotes, tables, etc.
+<img width="412" alt="Spectrogram" src="https://user-images.githubusercontent.com/8118708/142154417-5fb7a516-eb83-4f3b-bb2c-b612b916253c.png">
 
+## So what do we do?
 
-This is a paragraph (in Markdown). Some more
-text here.
-
-This is another paragraph.
-
-This is a list:
-
-- Orange
-- Apple
-- Blueberry
-
-$$x^2 = y^2$$
-
-
-Just getting started with Markdown?
-See the [HTML <-> Markdown Quick Reference (Cheat Sheet)][quickref].
-
-
-[quickref]: https://github.com/mundimark/quickrefs/blob/master/HTML.md
+[![Progress Video](https://user-images.githubusercontent.com/8118708/142151126-04e71838-19a9-4302-8b52-07c0c0ba2149.png)](https://youtu.be/2JXjUvanLcc)
