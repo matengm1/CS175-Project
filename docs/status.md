@@ -39,24 +39,31 @@ Given our experience so far, the main challenge we’ll be facing is expanding t
 
 ## Resources Used:
 https://minecraft.fandom.com/wiki/Tutorials/Sound_directory#Locating_specific_sound_files
-Extract_sounds.py to find minecraft sounds
+
+- Extract_sounds.py to find minecraft sounds
 
 https://cloudconvert.com/
-Convert .ogg to .wav
+
+- Convert .ogg to .wav
 
 https://academo.org/demos/spectrum-analyzer/
-Visualize our desired vectorized data
+
+- Visualize our desired vectorized data
 
 https://minecraft.fandom.com/wiki/Note_Block
-Learn that frequencies range from 92 - 1480 hz
+
+- Learn that frequencies range from 92 - 1480 hz
 
 Scipy
-Spatial calculations of vectors
-Visualize spectrogram of sound samples
+
+- Spatial calculations of vectors
+- Visualize spectrogram of sound samples
 
 Numpy
-Advanced vector calculations
+
+- Advanced vector calculations
 
 Librosa
-Frequency visualization
+
+- Frequency visualization
 
