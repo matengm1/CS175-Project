@@ -134,7 +134,10 @@ With a similarity value of 0.8327, we determined that our project was a success.
 
 ## References:
 https://minecraft.fandom.com/wiki/Tutorials/Sound_directory#Locating_specific_sound_files (extract_sounds.py to find minecraft sounds)
+
 https://cloudconvert.com/ (to convert .ogg to .wav)
+
 https://academo.org/demos/spectrum-analyzer/ (to visualize what our vectorized data ought to look like)
+
 https://minecraft.fandom.com/wiki/Note_Block (to learn that note block frequencies range from 92 - 1480 hz)
 
